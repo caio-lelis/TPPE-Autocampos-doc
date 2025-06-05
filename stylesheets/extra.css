@@ -1,0 +1,28 @@
+:root {
+  --dracula-purple: #bd93f9;
+  --dracula-pink: #ff79c6;
+  --dracula-cyan: #8be9fd;
+}
+
+/* Personalizar cabeçalhos */
+h1, h2, h3 {
+  color: var(--dracula-cyan);
+  border-bottom: 1px solid var(--dracula-purple);
+}
+
+
+/* botoes */
+
+.md-button {
+    background-color: var(--dracula-purple);
+    border-color: var(--dracula-purple);
+    color: #282a36 !important;
+}
+
+.md-button:hover {
+    background-color: var(--dracula-pink);
+    border-color: var(--dracula-pink);
+}
+
+
+/* code destaque */
