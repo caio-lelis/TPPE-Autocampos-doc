@@ -55,3 +55,8 @@ nav:
 # pip install pymdown-extensions
 # pip install --ignore-installed pymdown-extensions
 # https://pawamoy.github.io/mkdocs-gallery/#bootswatch-lux
+# <!-- Bootswatch - Lux -->
+# <!-- Bootswatch - Solar -->
+# <!-- dracula -->
+
+# https://pawamoy.github.io/mkdocs-gallery/#dracula
