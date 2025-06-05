@@ -1,4 +1,4 @@
-site_name: Concessionária de Carros - Documentação
+site_name: AutoCampos
 site_url: https://seusite.com
 repo_url: https://github.com/seuuser/seurepo
 
@@ -54,3 +54,4 @@ nav:
 # Para rodar deve-se instalar pip install mkdocs-dracula-theme
 # pip install pymdown-extensions
 # pip install --ignore-installed pymdown-extensions
+# https://pawamoy.github.io/mkdocs-gallery/#bootswatch-lux
