@@ -26,7 +26,9 @@ Estrutura:
 git checkout -b feature/nova-funcionalidade
 ```
 
-## Padrão de Commits - Conventional commits [Link de acesso](https://www.conventionalcommits.org/en/v1.0.0/)
+## Padrão de Commits - Conventional commits
+
+[Link de acesso](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ### Estrutura:
 
