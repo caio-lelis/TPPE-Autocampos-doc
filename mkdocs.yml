@@ -3,53 +3,29 @@ site_url: https://seusite.com
 repo_url: https://github.com/seuuser/seurepo
 
 theme:
-  name: dracula
+  name: lux
   features:
     - navigation.tabs
     - navigation.top
     - search.highlight
     - search.suggest
-  palette:
-    - scheme: dracula
-      primary: blue
-      accent: black
-
-# markdown_extensions:
-#   - admonition
-#   - pymdownx.highlight
-#   - pymdownx.superfences
-#   - pymdownx.tabbed
-#   - pymdownx.tasks
-#   - pymdownx.emoji
-#   - pymdownx.details
-#   - attr_list
-#   - tables
-#   - toc:
-#       permalink: true
-#   - plantuml_markdown
-
-extra_css:
-  - stylesheets/extra.css
-
-extra_javascript:
-  - javascripts/extra.js
 
 nav:
   - Início: index.md
-  - Sobre o Projeto:
-      - Visão Geral: sobre/visao_geral.md
-      - Objetivos: sobre/objetivos.md
-  - Design:
+  - Arquitetura:
       - Diagramas UML: design/uml.md
       - Arquitetura: design/arquitetura.md
       - Modelo do Banco: design/modelagem_banco.md
   - Desenvolvimento:
       - Guia de Contribuição: desenvolvimento/contribuicao.md
       - Histórias de Usuário: desenvolvimento/historias_usuario.md
+      - Arquitetura de Pastas: desenvolvimento/arquitetura_pastas.md
   - Infraestrutura:
-      - Visão Geral: infraestrutura/visao_geral.md
-      - Docker: infraestrutura/docker.md
+      - Docker(Compose): infraestrutura/docker_compose.md
+      - Docker(file): infraestrutura/docker_file.md
       - Tecnologias: infraestrutura/tecnologias.md
+  - Protótipo:
+      - Protótipo Figma: prototipo/prototipo.md
 # :::::
 # Para rodar deve-se instalar pip install mkdocs-dracula-theme
 # pip install pymdown-extensions

@@ -1,13 +1,20 @@
-3. **Na página inicial** (`index.md`), você pode usar:
+# TPPE - AutoCampos
 
-```markdown
-# Bem-vindo à Documentação da Concessionária
+## Justificativa do Projeto
 
-![Logo](assets/logo.png){ width=200 }
+A escolha do projeto **AutoCampos** foi motivada pelo desejo de revisitar e aprimorar um sistema desenvolvido no início da graduação, com o objetivo de aplicar os conhecimentos adquiridos ao longo do curso de forma prática e significativa.
 
-## Acesse as seções:
+Ao invés de iniciar um projeto totalmente novo, optou-se por evoluir uma solução já existente, permitindo:
 
-- [Sobre o Projeto](sobre/visao_geral.md)
-- [Guia de Contribuição](desenvolvimento/contribuicao.md)
-- [Infraestrutura](infraestrutura/visao_geral.md)
-```
+- Avaliar a própria evolução técnica e conceitual;
+- Refatorar e modernizar o código com boas práticas de engenharia de software;
+- Aplicar tecnologias atuais e mais robustas;
+- Tornar o sistema mais escalável, modular e preparado para uso real.
+
+Essa abordagem também proporcionou uma oportunidade valiosa de comparar paradigmas, arquiteturas e ferramentas utilizadas em diferentes momentos da formação acadêmica.
+
+Acesse o projeto antigo aqui
+
+https://github.com/caio-lelis/Concessionaria-AutoCampos-Orientacao-a-Objetos-
+
+<img src="logo.jpg" alt="logo" width="900">
