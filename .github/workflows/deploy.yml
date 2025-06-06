@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install mkdocs mkdocs-bootswatch
+          pip install mkdocs-bootswatch
 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
