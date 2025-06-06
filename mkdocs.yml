@@ -1,6 +1,6 @@
 site_name: AutoCampos
-site_url: https://seusite.com
-repo_url: https://github.com/seuuser/seurepo
+site_url: https://caio-lelis.github.io/TPPE-Autocampos-doc/
+repo_url: https://github.com/caio-lelis/TPPE-Autocampos-doc
 
 theme:
   name: lux
